@@ -2,7 +2,7 @@
 
 Objective-Zip
 =============
-
+WITH THIS FORK YOU CAN UNZIP A REALLY BIG ZIP FILES (I TESTED ON 8GB-ZIP)
 
 Introduction
 ------------
